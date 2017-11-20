@@ -54,7 +54,7 @@ def execute(file_name, folder_name):
 
 	
 if __name__ == '__main__':
-	print("\nFinding functions of RNA fragmnts step 1 - Create fasta files")
+	print("\nFinding functions of RNA fragments step 1 - Create fasta files")
 	
 	folder_name = file_name = input("Enter the name of file contains sequences in txt format: ")
 

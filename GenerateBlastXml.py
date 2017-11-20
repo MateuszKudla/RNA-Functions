@@ -39,7 +39,7 @@ def execute(folder,):
 
 
 if __name__ == "__main__":
-	print("\nFinding functions of RNA fragmnts step 2 - Create xml files")
+	print("\nFinding functions of RNA fragments step 2 - Create xml files")
 
 	folder_name = input("Enter the name of the test folder: ")
 	execute(folder_name)

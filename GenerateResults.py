@@ -250,7 +250,7 @@ def calculate(i, folder):
 
 	
 if __name__ == "__main__":
-	print("\nFinding functions of RNA fragmnts step 3 - Final results")
+	print("\nFinding functions of RNA fragments step 3 - Final results")
 	folder_name = input("Enter the name of the test folder: ")
 	email = input("Enter Your email address: ")
 
